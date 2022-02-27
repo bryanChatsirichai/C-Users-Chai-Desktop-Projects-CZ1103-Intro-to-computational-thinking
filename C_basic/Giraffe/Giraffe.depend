@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1601869921 source:d:\c_basic\giraffe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1603889650 source:e:\uni year 1 sem 1\cz1103-intro to comput thinking & pro\c_basic\giraffe\main.c
+	<stdio.h>
+
